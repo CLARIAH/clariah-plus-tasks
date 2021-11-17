@@ -1,3 +1,6 @@
+# Note: This repo is deprecated and moved to the [central CLARIAH PLUS repository](https://github.com/CLARIAH/clariah-plus)!
+
+
 # CLARIAH PLUS Tasks
 
 This repository contains tasks descriptions of all the tasks for CLARIAH-PLUS. The task descriptions here
